@@ -1,0 +1,24 @@
+
+/*
+div {
+    border: 4px solid black;
+}
+*/
+
+.demo-content {
+    padding: 15px;
+    background: #7289aa;
+}
+.bg-alt {
+    background: #abb1abb8;
+}
+
+.main-content {
+    min-height: 230px;
+}
+
+.sidebar-content {
+    min-height: 100px;
+    margin-bottom: 30px;
+}
+
